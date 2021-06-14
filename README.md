@@ -13,3 +13,6 @@ Além do próprio React Native, foi utilizada algumas outras, como por exemplo,<
 
 # Como fazer-lo funcionar
 Para rodar o projeto, é necessário que você tenha o [Expo](https://expo.io/) instalado na sua máquina. Também é necessário que você tenha uma conta no [Firebase](https://firebase.google.com/) e criar um banco de dados na plataforma e efetuar a mudança no código fonte do projeto.
+
+# Algumas coisas estão em desenvolvimento
+Algumas partes do projeto ainda não estão 100% desenvolvidas, o <b>Histórico de denúncias</b> está quase desenvolvido. Já a parte de <b>Visualizar denúncias</b> essa parte só estará disponivel para uma devida equipe responsável por captar as denúncias, no app final, para o usuário, essa opção não terá.
